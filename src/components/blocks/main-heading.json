@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_main_headings",
+  "info": {
+    "displayName": "Main Heading"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "linkId": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

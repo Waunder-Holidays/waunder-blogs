@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_blocks_headings",
+  "info": {
+    "displayName": "Sub Heading"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "linkId": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
