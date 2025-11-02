@@ -43,6 +43,9 @@
         "blocks.full-image",
         "blocks.main-heading"
       ]
+    },
+    "tags": {
+      "type": "string"
     }
   }
 }
